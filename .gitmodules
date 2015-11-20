@@ -1,0 +1,3 @@
+[submodule "CCLoading"]
+	path = CCLoading
+	url = git@github.com:roger2380/CCLoading.git
